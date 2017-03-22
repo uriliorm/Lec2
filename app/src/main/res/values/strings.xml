@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lec2</string>
+
+    <string name="btnClickME">
+        Click ME
+    </string>
+    <string name="click1">Click me1</string>
+</resources>
